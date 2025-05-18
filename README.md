@@ -73,6 +73,6 @@ node app.js
 
 ## 
 
-Desarrollado por: Cesar rubilar sanhueza 
+Desarrollado por: Arturo Chacón Rios 
 Instituto Profesional IPSS – 2° Año  
 Ramo: Desarrollo Backend
